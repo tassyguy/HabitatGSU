@@ -179,7 +179,7 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgba(0, 86, 145, 0.9); }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -209,7 +209,7 @@ header.masthead {
       font-size: 16px;
       font-style: italic;
       margin: 0;
-      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      font-family: 'PT Sans', Helvetica, Arial, sans-serif; }
 
 #portfolio * {
   z-index: 2; }
@@ -241,7 +241,7 @@ header.masthead {
     font-size: 16px;
     font-style: italic;
     margin: 20px 0 30px;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    font-family: 'PT Sans', Helvetica, Arial, sans-serif; }
   .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px; }
@@ -542,7 +542,7 @@ ul.social-buttons {
     .open > .btn-primary.dropdown-toggle:hover {
       color: white;
       border-color: #005691;
-      background-color: #dcab01; }
+      background-color: #005691; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     background-image: none; }
@@ -564,7 +564,7 @@ ul.social-buttons {
   color: white;
   border-color: #46B758;
   background-color: #46B758;
-  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
     color: white;
@@ -585,7 +585,7 @@ ul.social-buttons {
     .open > .btn-xl.dropdown-toggle:hover {
       color: white;
       border-color: #005691;
-      background-color: #dcab01; }
+      background-color: #2A77A8; }
   .btn-xl.active, .btn-xl:active,
   .open > .btn-xl.dropdown-toggle {
     background-image: none; }
